@@ -23,4 +23,4 @@ clean:
 	rm -rf $(HOME)/data/wordpress
 	rm -rf $(HOME)/data/mariadb
 
-.PHONY: all re down clean
+.PHONY: all re down clean 
